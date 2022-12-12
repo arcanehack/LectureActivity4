@@ -1,0 +1,8 @@
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity4\LectureActivity4\LectureActivity4\bin\Debug\LectureActivity4.exe.config
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity4\LectureActivity4\LectureActivity4\bin\Debug\LectureActivity4.exe
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity4\LectureActivity4\LectureActivity4\bin\Debug\LectureActivity4.pdb
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity4\LectureActivity4\LectureActivity4\obj\Debug\LectureActivity4.csproj.AssemblyReference.cache
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity4\LectureActivity4\LectureActivity4\obj\Debug\LectureActivity4.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity4\LectureActivity4\LectureActivity4\obj\Debug\LectureActivity4.csproj.CoreCompileInputs.cache
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity4\LectureActivity4\LectureActivity4\obj\Debug\LectureActivity4.exe
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity4\LectureActivity4\LectureActivity4\obj\Debug\LectureActivity4.pdb
